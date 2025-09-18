@@ -12,13 +12,11 @@ Passionate about:
 
 <br>
 <br>
-<br>
 
 ## 🎯 Current focus
 - Preparing for **HackTheBox CBBH** and **PortSwigger Certified Professional**  
 - Active bug hunting, HTB/VulnHub practice, and building projects in **C**, **Bash**, and **Python**
 
-<br>
 <br>
 <br>
 
@@ -30,7 +28,6 @@ Passionate about:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
 
-<br>
 <br>
 
 ### 🛠️ Tools & environments
