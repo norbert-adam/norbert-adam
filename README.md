@@ -25,21 +25,15 @@ My focus: **Bug Bounty Hunting, Penetration Testing, and Low-Level Systems Progr
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
-
-![BurpSuite](https://img.shields.io/badge/BurpSuite-practitioner-red)
-![Wireshark](https://img.shields.io/badge/Wireshark-proficient-9cf)
-![Nmap](https://img.shields.io/badge/Nmap-experienced-8dd)
-![BugBounty](https://img.shields.io/badge/Bug%20Bounty-active-brightgreen)
-
-
-- **Domains:** Web Security, Bug Bounty, Linux Internals, Networking  
-- **Tools:** BurpSuite, Hydra, Nmap, Wireshark, VirtualBox  
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-101010?logo=kali&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
 
-![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white) 
+![BurpSuite](https://img.shields.io/badge/BurpSuite-practitioner-red)
+![Wireshark](https://img.shields.io/badge/Wireshark-proficient-9cf)
+![Nmap](https://img.shields.io/badge/Nmap-experienced-8dd)
 
 ![Metasploit](https://img.shields.io/badge/Metasploit-FF6A00?logo=metasploit&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-4A8FE7?logo=owasp&logoColor=white)
