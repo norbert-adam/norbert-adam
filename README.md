@@ -10,13 +10,13 @@ Passionate about:
 + 🌐 Networking,
 + 🖥️ Working vulnerable boxes and CTFs.
 
----
+
 
 ## 🎯 Current focus
 - Preparing for **HackTheBox CBBH** and **PortSwigger Certified Professional**  
 - Active bug hunting, HTB/VulnHub practice, and building projects in **C**, **Bash**, and **Python**
 
----
+
 
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
