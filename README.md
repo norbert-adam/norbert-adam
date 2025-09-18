@@ -13,8 +13,8 @@ Passionate about:
 <br>
 
 ## 🎯 Current focus
-- Preparing for **HackTheBox CBBH** and **PortSwigger Certified Professional**  
-- Active bug hunting, HTB/VulnHub practice, and building projects in **C**, **Bash**, and **Python**
+- Preparing for **HackTheBox CBBH** and **PortSwigger Certified Professional**.
+- Active bug hunting, HTB/VulnHub practice, and building projects in **C**, **Bash**, and **Rust**.
 
 <br>
 
