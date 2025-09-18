@@ -19,12 +19,14 @@ Currently, I’m preparing for:
 My focus: **Bug Bounty Hunting, Penetration Testing, and Low-Level Systems Programming**.
 
 ## 💻 Tech Stack
-![C](https://img.shields.io/badge/Lang-C-blue)
-![Bash](https://img.shields.io/badge/Lang-Bash-4eaa25)
-![Rust](https://img.shields.io/badge/Lang-Rust-DEA584)
-![Python](https://img.shields.io/badge/Lang-Python-3776AB)
-![Markdown](https://img.shields.io/badge/language-Markdown-lightgrey?logo=markdown&logoColor=black)`
-![Shell Script](https://img.shields.io/badge/language-Shell-4eaa25?logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
+
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
 
 
