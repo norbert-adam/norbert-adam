@@ -9,17 +9,17 @@ Passionate about:
 + ⌨️ Programming,
 + 🌐 Networking,
 + 🖥️ Working vulnerable boxes and CTFs.
-
-
-
-
+ 
+ 
+ 
+ 
 ## 🎯 Current focus
 - Preparing for **HackTheBox CBBH** and **PortSwigger Certified Professional**  
 - Active bug hunting, HTB/VulnHub practice, and building projects in **C**, **Bash**, and **Python**
-
-
-
-
+ 
+ 
+ 
+ 
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
@@ -27,9 +27,9 @@ Passionate about:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
-
-
-
+ 
+ 
+ 
 ### 🛠️ Tools & environments
 + **Operating systems:** Kali, Ubuntu, Arch, Raspbian, RedHat
 + **Editors / Workflow:** Vim, tmux, Git
