@@ -12,9 +12,11 @@ Passionate about:
 
 
 
+
 ## 🎯 Current focus
 - Preparing for **HackTheBox CBBH** and **PortSwigger Certified Professional**  
 - Active bug hunting, HTB/VulnHub practice, and building projects in **C**, **Bash**, and **Python**
+
 
 
 
@@ -27,13 +29,13 @@ Passionate about:
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
 
 
-### 🛠️ Tools & environments
-**Operating systems:** Kali, Ubuntu, Arch, Raspbian, RedHat
-**Editors / Workflow:** Vim, tmux, Git  
-**Offensive tools:** Burp Suite, Metasploit, OWASP ZAP, THC-Hydra, John the Ripper, Gobuster, WPScan, sqlmap  
-**Networking / analysis:** Nmap, Wireshark
 
----
+### 🛠️ Tools & environments
++ **Operating systems:** Kali, Ubuntu, Arch, Raspbian, RedHat
++ **Editors / Workflow:** Vim, tmux, Git
++ **Offensive tools:** Burp Suite, Metasploit, OWASP ZAP, THC-Hydra, John the Ripper, Gobuster, WPScan, sqlmap
++ **Networking / analysis:** Nmap, Wireshark
+
 
 <!--
 > Tip: I keep concise practical notes and scripts for many of these tools in my repos.
